@@ -14,7 +14,8 @@ To get started with the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/helasBa/AR_PistonMachine.git`
 2. Open the project in Unity.
-3. ...
+3. Watch the MP4 file to see the render of this project.
+4. Install the APK file on your smartphone to test the application.
 
 ## Dependencies
 
